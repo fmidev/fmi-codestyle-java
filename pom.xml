@@ -10,7 +10,7 @@
 
   <groupId>fi.fmi</groupId>
   <artifactId>fmi-codestyle-java</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>FMI Java Code Style Rules</name>
@@ -25,6 +25,6 @@
     <connection>${scm-url}</connection>
     <developerConnection>${scm-url}</developerConnection>
     <url>${scm-web-url}</url>
-    <tag>fmi-codestyle-java-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
