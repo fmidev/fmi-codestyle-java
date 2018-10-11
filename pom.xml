@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
@@ -11,7 +10,7 @@
 
   <groupId>fi.fmi</groupId>
   <artifactId>fmi-codestyle-java</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>FMI Java Code Style Rules</name>
@@ -26,6 +25,6 @@
     <connection>${scm-url}</connection>
     <developerConnection>${scm-url}</developerConnection>
     <url>${scm-web-url}</url>
-    <tag>HEAD</tag>
+    <tag>fmi-codestyle-java-1.0.0</tag>
   </scm>
 </project>
