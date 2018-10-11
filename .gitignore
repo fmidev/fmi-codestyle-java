@@ -1,0 +1,13 @@
+## IntelliJ IDEA project files
+*.iml
+.idea
+gen
+out
+
+## Maven
+.mvn
+buildNumber.properties
+dependency-reduced-pom.xml
+pom.xml.*
+release.properties
+target/
